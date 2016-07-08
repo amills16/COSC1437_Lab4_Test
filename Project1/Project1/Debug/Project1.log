@@ -1,0 +1,8 @@
+﻿  Person.cpp
+  Name.cpp
+  Main.cpp
+c:\users\andrew.mills.zulahoo\source\repos\cosc1437_lab4_test\project1\project1\main.cpp(26): warning C4930: 'Name N2(void)': prototyped function not called (was a variable definition intended?)
+  Address.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\andrew.mills.ZULAHOO\Source\Repos\COSC1437_Lab4_Test\Project1\Debug\COSC1437_Assignment4.exe
+  Project1.vcxproj -> C:\Users\andrew.mills.ZULAHOO\Source\Repos\COSC1437_Lab4_Test\Project1\Debug\COSC1437_Assignment4.pdb (Partial PDB)
